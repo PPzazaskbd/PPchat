@@ -1,3 +1,4 @@
+ill edit this later , please read my ai slop for now
 # OpenRouter DeepSeek Chat
 
 TODO seperate frontend and backend
