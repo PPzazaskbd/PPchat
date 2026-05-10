@@ -1,5 +1,6 @@
 # OpenRouter DeepSeek Chat
 
+TODO seperate frontend and backend
 A minimal Next.js App Router chat app that sends messages to a server API route, then calls OpenRouter with your private API key.
 
 ## Install Dependencies

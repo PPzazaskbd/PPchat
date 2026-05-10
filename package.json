@@ -2,6 +2,7 @@
   "name": "openrouter-next-chat",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,14 +10,18 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@prisma/adapter-pg": "^7.8.0",
+    "@prisma/client": "^7.8.0",
+    "dotenv": "^17.4.2",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"
   },
   "devDependencies": {
-    "@types/node": "latest",
+    "@types/node": "^25.6.2",
     "@types/react": "latest",
     "@types/react-dom": "latest",
-    "typescript": "latest"
+    "prisma": "^7.8.0",
+    "typescript": "^6.0.3"
   }
 }
