@@ -1,3 +1,4 @@
+ill edit this later , please read my ai slop for now
 # OpenRouter DeepSeek Chat
 
 A minimal Next.js App Router chat app that sends messages to a server API route, then calls OpenRouter with your private API key.
