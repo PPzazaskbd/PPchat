@@ -1,6 +1,8 @@
 .env
 .env.local
 .next
+.vscode
+.claude
 node_modules
 npm-debug.log*
 yarn-debug.log*
